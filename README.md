@@ -4,3 +4,4 @@ saam
 daam
 dand
 bhed
+these are the punishment also
