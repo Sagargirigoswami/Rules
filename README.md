@@ -5,4 +5,5 @@ daam
 dand
 bhed
 these are the punishment also
-offer
+Saam is Advice
+Daam is Offer
