@@ -5,5 +5,6 @@ daam
 dand
 bhed
 these are the punishment also
-Saam is Advice
-Daam is Offer
+Saam is a symbol of Advice
+Daam is a symbol of Offer
+Dand is a symbol of Punishment
